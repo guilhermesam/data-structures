@@ -1,6 +1,7 @@
-package src.structure;
+package src.structure.list;
 
 import java.util.NoSuchElementException;
+import src.structure.Node;
 
 public class CircularList {
 
