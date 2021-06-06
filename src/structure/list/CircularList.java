@@ -3,7 +3,7 @@ package src.structure.list;
 import java.util.NoSuchElementException;
 import src.structure.Node;
 
-public class CircularList {
+public class CircularList implements IList {
 
     private Node header, tail;
     private int size;
